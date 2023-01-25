@@ -1,6 +1,6 @@
 name = "MyRegistry"
 uuid = "db84a83b-94ca-462b-b507-c2b6f523c60b"
 repo = "https://github.com/jbphyswx/MyRegistry.git"
-description = "myrepo"
+description = "My Personal Julia Registry"
 
 [packages]
