@@ -4,5 +4,4 @@ repo = "https://github.com/jbphyswx/MyRegistry.git"
 description = "My Personal Julia Registry"
 
 [packages]
-b60c26fb-14c3-4610-9d3e-2d17fe7ff00c = { name = "Thermodynamics", path = "T/Thermodynamics" }
 efca6b66-9b98-11ed-1a32-7b7cdccd517a = { name = "SOCRATES_Single_Column_Forcings", path = "S/SOCRATES_Single_Column_Forcings" }
