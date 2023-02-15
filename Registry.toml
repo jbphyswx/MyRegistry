@@ -4,4 +4,5 @@ repo = "https://github.com/jbphyswx/MyRegistry.git"
 description = "My Personal Julia Registry"
 
 [packages]
+e947e0f7-2a41-4f19-9393-ba7ad8caf967 = { name = "TrainTau", path = "T/TrainTau" }
 efca6b66-9b98-11ed-1a32-7b7cdccd517a = { name = "SOCRATES_Single_Column_Forcings", path = "S/SOCRATES_Single_Column_Forcings" }
